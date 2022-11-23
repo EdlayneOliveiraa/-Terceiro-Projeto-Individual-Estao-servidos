@@ -20,8 +20,14 @@
 <li>DELETE</li>
 </ul>
 
-<h2>Exemplos:</h2>
-
-
 <ol>Cada rota deverá conter 4 ou mais dados.</ol>
 <ol>O Servidor deverá estar hospedado (deploy) no render.com ou em qualquer outro serviço de hospedagem.</ol>
+
+
+<h2>Exemplos:</h2>
+
+POST:
+<img>![POST (Inserir)](https://user-images.githubusercontent.com/114404910/203583007-038605e0-bc8b-4675-83bd-d62aaf537f2c.JPG)</img>
+
+PUT:
+<img>![PUT (Atualizar)](https://user-images.githubusercontent.com/114404910/203583126-a429c197-c67a-4e2f-8d6f-19494b917ee3.JPG)</img>
