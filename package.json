@@ -1,0 +1,24 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "Terceiro projeto individual (Resilia)",
+  "main": "src/index.js",
+  "scripts": {
+    "vai": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdlayneOliveiraa/Terceiro-Projeto-Individual-Estao-servidos.git"
+  },
+  "author": "Edlayne Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdlayneOliveiraa/Terceiro-Projeto-Individual-Estao-servidos/issues"
+  },
+  "homepage": "https://github.com/EdlayneOliveiraa/Terceiro-Projeto-Individual-Estao-servidos#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuidv4": "^6.2.13"
+  }
+}

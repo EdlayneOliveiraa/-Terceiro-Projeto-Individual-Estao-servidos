@@ -1,0 +1,154 @@
+{
+    "Cinema_Shopping_Bangu": [
+        {
+            "id": 1,
+            "filme": "ADÃO NEGRO",
+            "sinopse": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
+            "genero": "Ação / Aventura",
+            "duracao": "125 minutos",
+            "categoria_id": 1
+        },
+        {
+            "id": 2,
+            "filme": "E.T. - O EXTRATERRESTRE",
+            "sinopse": "O garoto Elliott faz amizade com um pequeno alienígena inofensivo que está bem longe do seu planeta. Ele decide manter secretamente a adorável criatura em casa, na Califórnia, após apresentá-la aos irmãos. Os dois desenvolvem uma forte conexão, mas E.T. precisa reencontrar seus pares antes que seja tarde demais. Vencedor de quatro categorias do Oscar.",
+            "genero": "Aventura / Drama / Fantasia",
+            "duracao": "115 minutos",
+            "categoria_id": 1
+        },
+        {
+            "id": 3,
+            "filme": "NADA É POR ACASO",
+            "sinopse": "O filme acompanha a trajetória de duas mulheres com personalidades fortes, Marina e Maria Eugênia, ressaltando importância da evolução espiritual e como isso pode ajudar nos relacionamentos que ambas constroem ao longo da vida. Sinopse oficial ainda não foi divulgada.",
+            "genero": "Drama",
+            "duracao": "106 minutos",
+            "categoria_id": 1
+        },
+        {
+            "id": 4,
+            "filme": "PANTERA NEGRA: WAKANDA PARA SEMPRE",
+            "descricao": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
+            "genero": "Ação / Aventura",
+            "duracao": "161 minutos",
+            "categoria_id": 1
+        }
+    ],
+    "Cinema_Shopping_Sulacap": [
+        {
+            "id": 1,
+            "filme": "ADÃO NEGRO",
+            "sinopse": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
+            "genero": "Ação / Aventura",
+            "duracao": "125 minutos",
+            "categoria_id": 2
+        },
+        {
+            "id": 2,
+            "filme": "E.T. - O EXTRATERRESTRE",
+            "sinopse": "O garoto Elliott faz amizade com um pequeno alienígena inofensivo que está bem longe do seu planeta. Ele decide manter secretamente a adorável criatura em casa, na Califórnia, após apresentá-la aos irmãos. Os dois desenvolvem uma forte conexão, mas E.T. precisa reencontrar seus pares antes que seja tarde demais. Vencedor de quatro categorias do Oscar.",
+            "genero": "Aventura / Drama / Fantasia",
+            "duracao": "115 minutos",
+            "categoria_id": 2
+        },
+        {
+            "id": 3,
+            "filme": "NADA É POR ACASO",
+            "sinopse": "O filme acompanha a trajetória de duas mulheres com personalidades fortes, Marina e Maria Eugênia, ressaltando importância da evolução espiritual e como isso pode ajudar nos relacionamentos que ambas constroem ao longo da vida. Sinopse oficial ainda não foi divulgada.",
+            "genero": "Drama",
+            "duracao": "106 minutos",
+            "categoria_id": 2
+        },
+        {
+            "id": 4,
+            "filme": "PANTERA NEGRA: WAKANDA PARA SEMPRE",
+            "descricao": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
+            "genero": "Ação / Aventura",
+            "duracao": "161 minutos",
+            "categoria_id": 2
+        },
+        {
+            "id": 5,
+            "filme": "LILO, LILO, CROCODILO",
+            "descricao": "A trama acompanha um simpático crocodilo vivendo em uma casa na East 88th Street, em Nova York. Apesar de Lilo ajudar a família Primm nas tarefas diárias e brincar com as crianças da vizinhança, um vizinho mal-humorado insiste que ele deve ser enviado a um zoológico. Para mudar a opinião de Mr. Grumps e sua gata, Loretta, que detestam crocodilos, Lilo terá que provar que não é tão ruim quanto os outros podem pensar, mas tudo o que ele faz para conquistá-los parece dar errado.",
+            "genero": "Comédia",
+            "duracao": "106 minutos",
+            "categoria_id": 2
+        }   
+    ],
+    "Cinema_Shopping_Guadalupe":[
+        {
+            "id": 1,
+            "filme": "ADÃO NEGRO",
+            "sinopse": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
+            "genero": "Ação / Aventura",
+            "duracao": "125 minutos",
+            "categoria_id": 3
+        },
+        {
+            "id": 2,
+            "filme": "E.T. - O EXTRATERRESTRE",
+            "sinopse": "O garoto Elliott faz amizade com um pequeno alienígena inofensivo que está bem longe do seu planeta. Ele decide manter secretamente a adorável criatura em casa, na Califórnia, após apresentá-la aos irmãos. Os dois desenvolvem uma forte conexão, mas E.T. precisa reencontrar seus pares antes que seja tarde demais. Vencedor de quatro categorias do Oscar.",
+            "genero": "Aventura / Drama / Fantasia",
+            "duracao": "115 minutos",
+            "categoria_id": 3
+        },
+        {
+            "id": 3,
+            "filme": "NADA É POR ACASO",
+            "sinopse": "O filme acompanha a trajetória de duas mulheres com personalidades fortes, Marina e Maria Eugênia, ressaltando importância da evolução espiritual e como isso pode ajudar nos relacionamentos que ambas constroem ao longo da vida. Sinopse oficial ainda não foi divulgada.",
+            "genero": "Drama",
+            "duracao": "106 minutos",
+            "categoria_id": 3
+        },
+        {
+            "id": 4,
+            "filme": "PANTERA NEGRA: WAKANDA PARA SEMPRE",
+            "descricao": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
+            "genero": "Ação / Aventura",
+            "duracao": "161 minutos",
+            "categoria_id": 3
+        }
+    ],
+    "Cinema_Shopping_Via_Brasil": [
+        {
+            "id": 1,
+            "filme": "ADÃO NEGRO",
+            "sinopse": "Dotado dos poderes onipotentes dos deuses, Teth Adam está preso por 5.000 anos, passando de homem, mito, lenda: Adão Negro. Agora livre, um vingativo Adão Negro exerce seu senso único de justiça, nascido da raiva, mais uma vez. Recusando-se a se render, o anti-herói que passou de homem, mito e lenda, é desafiado pelos heróis modernos da Sociedade da Justiça: Gavião Negro, Sr. Destino, Esgama Átomo e Cyclone.",
+            "genero": "Ação / Aventura",
+            "duracao": "125 minutos",
+            "categoria_id": 4
+        },
+        {
+            "id": 2,
+            "filme": "E.T. - O EXTRATERRESTRE",
+            "sinopse": "O garoto Elliott faz amizade com um pequeno alienígena inofensivo que está bem longe do seu planeta. Ele decide manter secretamente a adorável criatura em casa, na Califórnia, após apresentá-la aos irmãos. Os dois desenvolvem uma forte conexão, mas E.T. precisa reencontrar seus pares antes que seja tarde demais. Vencedor de quatro categorias do Oscar.",
+            "genero": "Aventura / Drama / Fantasia",
+            "duracao": "115 minutos",
+            "categoria_id": 4
+        },
+        {
+            "id": 3,
+            "filme": "NADA É POR ACASO",
+            "sinopse": "O filme acompanha a trajetória de duas mulheres com personalidades fortes, Marina e Maria Eugênia, ressaltando importância da evolução espiritual e como isso pode ajudar nos relacionamentos que ambas constroem ao longo da vida. Sinopse oficial ainda não foi divulgada.",
+            "genero": "Drama",
+            "duracao": "106 minutos",
+            "categoria_id": 4
+        },
+        {
+            "id": 4,
+            "filme": "PANTERA NEGRA: WAKANDA PARA SEMPRE",
+            "descricao": "A Rainha Ramonda, Shuri, M’Baku, Okoye e as Dora Milaje, lutam para proteger sua nação contra as potências mundiais intervenientes logo após a morte do Rei T’Challa. Enquanto os Wakandanos se esforçam para aceitar este próximo capítulo, os heróis devem se unir com a ajuda da veterana guerreira Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda. Apresentando como Namor, rei de uma oculta nação submarina, o filme também é estrelado por Dominique Thorne, Michaela Coel, Mabel Cadena e Alex Livanalli.",
+            "genero": "Ação / Aventura",
+            "duracao": "161 minutos",
+            "categoria_id": 4
+        },
+        {
+            "id": 5,
+            "filme": "LILO, LILO, CROCODILO",
+            "descricao": "A trama acompanha um simpático crocodilo vivendo em uma casa na East 88th Street, em Nova York. Apesar de Lilo ajudar a família Primm nas tarefas diárias e brincar com as crianças da vizinhança, um vizinho mal-humorado insiste que ele deve ser enviado a um zoológico. Para mudar a opinião de Mr. Grumps e sua gata, Loretta, que detestam crocodilos, Lilo terá que provar que não é tão ruim quanto os outros podem pensar, mas tudo o que ele faz para conquistá-los parece dar errado.",
+            "genero": "Comédia",
+            "duracao": "106 minutos",
+            "categoria_id": 4
+        }   
+    ]
+}
